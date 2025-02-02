@@ -1,4 +1,4 @@
-[简体中文](./README.md) | [English](./README_EN.md)
+日本語 | [简体中文](./README.md) | [English](./README_EN.md)
 
 > [!IMPORTANT]
 > ### プロジェクト声明
