@@ -10,4 +10,4 @@ BakaWeatherを使用中に問題が発生した場合、またはBakaWeatherの�
 
 ## 完成待ち
 
-## USED AI. CHECK MISTAKES BEFORE USE.
+**Translated by AI. Accuracy not guaranteed.**
