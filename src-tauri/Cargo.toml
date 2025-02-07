@@ -1,0 +1,5 @@
+[profile.dev.package.tao]
+opt-level = 3
+
+[profile.dev.package.winit]
+opt-level = 3 

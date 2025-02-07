@@ -1,0 +1,1 @@
+/// <reference types="@tauri-apps/api/notification" /> 

@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "types": ["@tauri-apps/api", "@tauri-apps/api/notification"]
+  }
+}

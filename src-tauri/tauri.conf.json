@@ -7,11 +7,24 @@
     "allowlist": {
       "http": {
         "request": true,
-        "scope": ["https://api.*.org/*", "https://earthquake.usgs.gov/*"]
+        "scope": ["https://api.wolfx.jp/*", "https://devapi.qweather.com/*", "https://geoapi.qweather.com/*"]
       },
       "notification": {
-        "all": true
+        "all": true,
+        "send": true
       }
-    }
+    },
+    "windows": [
+      {
+        "title": "Baka Weather",
+        "width": 1200,
+        "height": 800,
+        "resizable": true,
+        "fullscreen": false,
+        "decorations": true,
+        "transparent": false,
+        "always_on_top": false
+      }
+    ]
   }
 } 

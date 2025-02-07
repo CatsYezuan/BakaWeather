@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Tauri",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/src-tauri/target/debug/baka-weather",
+      "args": [],
+      "cwd": "${workspaceFolder}/src-tauri"
+    }
+  ]
+} 
