@@ -1,0 +1,17 @@
+{
+  "build": {
+    "devPath": "http://localhost:3000",
+    "distDir": "../dist"
+  },
+  "tauri": {
+    "allowlist": {
+      "http": {
+        "request": true,
+        "scope": ["https://api.*.org/*", "https://earthquake.usgs.gov/*"]
+      },
+      "notification": {
+        "all": true
+      }
+    }
+  }
+} 
