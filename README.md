@@ -1,4 +1,4 @@
-[![splash](/.github/docs_style/splash.png)]
+![splash](/docs_style/splash.png)
 
 简体中文 | [English](./README_EN.md) | [日本語](./README_JA.md)
 
