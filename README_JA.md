@@ -1,3 +1,5 @@
+[![splash](/.github/docs_style/splash.png)]
+
 日本語 | [简体中文](./README.md) | [English](./README_EN.md)
 
 > [!IMPORTANT]
